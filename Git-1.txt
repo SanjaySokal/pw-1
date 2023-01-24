@@ -1,0 +1,8 @@
+1. Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+2. Version control system is the files which contains all our projects history. If we have done some changes then it will contain a history for it.
+3. GitHub is an open-source project hosting manager. In it we can host our code or push our code usuing Git.
+4. GitLab, Bitbucket are some of the popular hosting service providers.
+5. Centralized version control, Distributed version control.
+6. We can track all our files and changes done in the files. All files are accessable to all team members. All code can be shared at one time.
+7. Git Repository is a place where our code has been hosted and that will be accessable to all team members.
+8. We can initalize repositry in Git usuing GUI or commands.
