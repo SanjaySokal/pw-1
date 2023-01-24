@@ -1,0 +1,8 @@
+1. A computer is a machine that can process data and perform tasks according to instructions (programs) via a combination of hardware and software components. It can be used for various operations like data storage, computation, and communication.
+2. RAM (Random Access Memory) is a type of computer memory that is used to temporarily store data that the computer is currently using or processing. It allows the computer to access the data quickly, without the need to retrieve it from a slower storage device. The amount of RAM a computer has determines how many programs and applications it can run simultaneously without slowing down.
+3. Data is stored in HDD/SSD.
+4. Keyboard is used to type text and numbers on a computer system.
+5. A device which gives us output link a printer give us a photocopy, moniter etc are output devices.
+6. Mouse is used to move cursor on the screen.
+7. Binary Language is directly understandable to a computer.
+8. A device which are used to give instructions/input to a computer are input devices. link a moouse, keyboard are output devices.
